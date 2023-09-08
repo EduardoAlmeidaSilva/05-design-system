@@ -30,7 +30,7 @@ const config = {
       config.base = "/05-design-system/";
     }
 
-    return config;
+    return config
   },
 };
 export default config;
